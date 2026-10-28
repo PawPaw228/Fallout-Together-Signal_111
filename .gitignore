@@ -1,0 +1,24 @@
+# Keep personal game data, diagnostic files and local development artifacts out of public commits.
+build/
+logs/
+*.log
+*.dmp
+*.pdb
+*.fos
+*.bak
+*.tmp
+*.exe
+*.dll
+*.zip
+*.7z
+*.rar
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.p12
+*.sqlite
+*.db
+Thumbs.db
+.DS_Store
